@@ -1,0 +1,13 @@
+.login-container{
+	width: 300px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+}
+form{
+	display: flex;
+	flex-direction: column;
+}
+label{
+	margin-bottom: 10px;
+}
